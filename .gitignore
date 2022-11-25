@@ -13,3 +13,7 @@ build/*
 parstdex.egg-info/*
 .DS_Store
 .DS_Store?
+n-gram/.idea/*
+n-gram/models/*
+kenlm/*
+oscar-small/*
